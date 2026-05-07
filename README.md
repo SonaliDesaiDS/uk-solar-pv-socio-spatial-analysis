@@ -56,7 +56,7 @@ cd uk-solar-pv-socio-spatial-analysis
 
 ### 2. Set up the Python environment
 
-Python 3.11 is recommended. Using a virtual environment is strongly advised:
+Python 3.13 is recommended. Using a virtual environment is strongly advised:
 
 ```bash
 python -m venv .venv
